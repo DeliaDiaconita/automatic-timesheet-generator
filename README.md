@@ -101,6 +101,7 @@ timesheet/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Screenshots
 
