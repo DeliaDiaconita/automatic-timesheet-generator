@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Generated Excel files
+*.xlsx
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
